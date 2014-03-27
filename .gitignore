@@ -1,0 +1,10 @@
+#generic Files
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
+
+# sublime spezifc files
+*.sublime-project
