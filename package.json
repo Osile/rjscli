@@ -1,10 +1,11 @@
 {
   "name": "rjscli",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "preferGlobal": true,
   "description": "for remote logging from Phonegap Applications to your CLI",
   "url": "https://github.com/Osile/rjscli",
   "main": "./bin",
-  "bin"               : { "devcycle": "./bin/rjscli.js" },
+  "bin"               : { "rjscli": "./bin/rjscli" },
   "directories"       : { "bin": "./bin" },
   "scripts": {
     "start": "node app.js"
