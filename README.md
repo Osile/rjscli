@@ -2,6 +2,10 @@
 
 For remote logging to your CLI, it's part of R.js.
 
+Needed POST request params:
+- timestamp
+- msg
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Marvin Oßwald
