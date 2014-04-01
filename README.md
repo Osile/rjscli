@@ -6,6 +6,17 @@ Needed POST request params:
 - timestamp
 - msg
 
+
+## Installation
+
+[Node.js](http://www.nodejs.org) should be on every javascript developer machine but if you didn't installed it yet, do it :D
+
+After that you can easily install rjscli:
+
+  npm install -g rjscli
+  
+Now you can access rjscli globaly from your terminal.
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Marvin Oßwald
