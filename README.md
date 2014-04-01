@@ -13,7 +13,7 @@ Needed POST request params:
 
 After that you can easily install rjscli:
 
-  npm install -g rjscli
+    npm install -g rjscli
   
 Now you can access rjscli globaly from your terminal.
 
